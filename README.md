@@ -5,7 +5,7 @@ An end-to-end Power BI projectt analyzes a dataset from a global survey of data 
 ## Project Overview
 
 - **Tool used:** Microsoft Power BI
-- **Data source:** Excel survey dataset (`Excel Data Set - Data_Professional_Survey_Analysis.xlsx`)
+- **Data source:** Excel survey dataset (`Excel Data Set - Data Professional Survey Analysis.xlsx`)
 - **Skills showcased:**
   - Data cleaning and transformation
   - DAX calculations
@@ -19,8 +19,8 @@ An end-to-end Power BI projectt analyzes a dataset from a global survey of data 
 - Distribution by gender, age, country, education
 
 ## Files Included
-- Excel Dataset (Excel Data Set - Data_Professional_Survey)
-- Power BI Report (PowerBI - Data_Professional_Survey_Analysis)
+- Excel Dataset (Excel Data Set - Data Professional Survey)
+- Power BI Report (PowerBI - Data Professional Survey Analysis)
 - Dashboard Screenshot (Screenshot.png)
 
 ## Project Steps
